@@ -1,5 +1,11 @@
-# Applied NLP Assignment 2
+# Extractive Question Answering
 
-This repository contains the code and the pdf report for Applied NLP Assignment 2. 
+Code and report for a question-answering system.  
 
-The dataset used is the [SQuADv2.0](https://rajpurkar.github.io/SQuAD-explorer/) dataset from Kaggle. The [MobileBERT](https://huggingface.co/google/mobilebert-uncased) and [Sentence-BERT](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) models are used from HuggingFace.
+**Models:** [🤗 MobileBERT](https://huggingface.co/google/mobilebert-uncased) | [🤗 Sentence-BERT](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+
+**Dataset:** [SQuADv2.0](https://rajpurkar.github.io/SQuAD-explorer/)
+
+<img src="qa_system_flowchart.png" alt="QA FLOWCHART" width="400"/>
+
+*Figure 1: Question Answering System*
